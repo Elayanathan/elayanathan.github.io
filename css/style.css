@@ -89,6 +89,7 @@ nav{
 	letter-spacing: 3px;
 	color:#292929;
 }
+/*
 .cv-btn{
 	width:200px;
 	height: 45px;
@@ -96,7 +97,7 @@ nav{
 	justify-content: center;
 	align-items: center;
 	background-color: #292929;
-	color:#FFFFFF;
+	color:#FFFFFF; */
 }
 .cv-btn:hover{
 	background-color: #131313;
